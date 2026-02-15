@@ -1,4 +1,4 @@
 Hi how are you?
-My devops class code is SA251106
-I am learning DevOps slowly
-I need to fasten it
+I took DevOps course from StartAgile
+My DevOps class code is SA251106
+This is my Git Assignment.
