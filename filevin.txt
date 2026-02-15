@@ -1,3 +1,10 @@
 Hi how are you?
+<<<<<<< HEAD
 Adding line2
 add extra lines if required to github file
+=======
+I took DevOps course from StartAgile
+My DevOps class code is SA251106
+This is my Git Assignment.
+>>>>>>> aed0eca890067bdf9a1ab0d586f8e28528973187
+add extra lines if required to githubfile
